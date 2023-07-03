@@ -18,3 +18,21 @@
 
 </div>
 </details>
+
+### Week 2
+
+<details>
+<summary>문제</summary>
+<div markdown="1">
+
+1. [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+2. [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+3. [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
+4. [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+5. [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+
+</div>
+</details>
+고민해볼 문제 
+
+[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)
