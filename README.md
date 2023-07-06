@@ -1,5 +1,11 @@
 # 코테 및 CS 스터디
 
+## CS
+
+### Week 1
+
+왜 자바는 인기가 많은가?
+
 ## 코테
 
 ### Week 1
@@ -33,6 +39,6 @@
 
 </div>
 </details>
-고민해볼 문제 
+고민해볼 문제
 
 [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)
